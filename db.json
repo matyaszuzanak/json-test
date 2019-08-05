@@ -1,70 +1,70 @@
 {
-    "cars": [
-        {
-            "type": "car",
-            "SPZ/RZ": "5L67536",
-            "position": 1,
-            "color": "rgb(0, 0, 255)"
-        },
-        {
-            "type": "lorry",
-            "SPZ/RZ": "2E54235",
-            "position": 2,
-            "color": "rgb(255, 255, 255)"
-        },
-        {
-            "type": "car",
-            "SPZ/RZ": "3AA0300",
-            "position": 3,
-            "color": "rgb(0, 0, 0)"
-        },
-        {
-            "type": "car",
-            "SPZ/RZ": "5L67536",
-            "position": 4,
-            "color": "blue"
-        },
-        {
-            "type": "lorry",
-            "SPZ/RZ": "5L67536",
-            "position": 5,
-            "color": "blue"
-        },
-        {
-            "type": "car",
-            "SPZ/RZ": "5L67536",
-            "position": 6,
-            "color": "blue"
-        },
-        {
-            "type": "lorry",
-            "SPZ/RZ": "5L67536",
-            "position": 7,
-            "color": "blue"
-        },
-        {
-            "type": "car",
-            "SPZ/RZ": "5L67536",
-            "position": 8,
-            "color": "blue"
-        },
-        {
-            "type": "car",
-            "SPZ/RZ": "5L67536",
-            "position": 9,
-            "color": "blue"
-        },
-        {
-            "type": "car",
-            "SPZ/RZ": "5L67536",
-            "position": 10,
-            "color": "blue"
-        },
-        {
-            "type": "lorry",
-            "SPZ/RZ": "5L67536",
-            "position": 11,
-            "color": "blue"
-        }
-    ]
+  "cars": [
+    {
+      "type": "car",
+      "rz": "5L67536",
+      "position": 1,
+      "color": "blue"
+    },
+    {
+      "type": "lorry",
+      "rz": "2E54235",
+      "position": 2,
+      "color": "white"
+    },
+    {
+      "type": "car",
+      "rz": "3AA0300",
+      "position": 3,
+      "color": "black"
+    },
+    {
+      "type": "car",
+      "rz": "3E53355",
+      "position": 4,
+      "color": "grey"
+    },
+    {
+      "type": "lorry",
+      "rz": "2A50080",
+      "position": 5,
+      "color": "green"
+    },
+    {
+      "type": "car",
+      "rz": "3L32030",
+      "position": 6,
+      "color": "blue"
+    },
+    {
+      "type": "lorry",
+      "rz": "9A97575",
+      "position": 7,
+      "color": "white"
+    },
+    {
+      "type": "police",
+      "rz": "4AA2233",
+      "position": 8,
+      "color": "white"
+    },
+    {
+      "type": "car",
+      "rz": "2S48224",
+      "position": 9,
+      "color": "gold"
+    },
+    {
+      "type": "car",
+      "rz": "1L18515",
+      "position": 10,
+      "color": "red"
+    },
+    {
+      "type": "lorry",
+      "rz": "4L82020",
+      "position": 11,
+      "color": "blue"
+    }
+  ]
 }
