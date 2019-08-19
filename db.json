@@ -3,25 +3,25 @@
     {
       "type": "car",
       "rz": "5L67536",
-      "position": 1,
+      "position": 4,
       "color": "blue"
     },
     {
       "type": "lorry",
       "rz": "2E54235",
-      "position": 2,
+      "position": 7,
       "color": "white"
     },
     {
       "type": "car",
       "rz": "3AA0300",
-      "position": 3,
+      "position": 9,
       "color": "black"
     },
     {
       "type": "car",
       "rz": "3E53355",
-      "position": 4,
+      "position": 1,
       "color": "grey"
     },
     {
@@ -39,7 +39,7 @@
     {
       "type": "lorry",
       "rz": "9A97575",
-      "position": 7,
+      "position": 2,
       "color": "white"
     },
     {
@@ -51,7 +51,7 @@
     {
       "type": "car",
       "rz": "2S48224",
-      "position": 9,
+      "position": 3,
       "color": "gold"
     },
     {
