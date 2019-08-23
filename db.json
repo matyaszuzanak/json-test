@@ -4,73 +4,73 @@
       "type": "car",
       "rz": "5L67536",
       "position": 4,
-      "color": "blue"
+      "color": "#185EC7"
     },
     {
       "type": "lorry",
       "rz": "2E54235",
       "position": 7,
-      "color": "white"
+      "color": "#d97c1f"
     },
     {
       "type": "car",
       "rz": "3AA0300",
       "position": 9,
-      "color": "black"
+      "color": "#4a87f0"
     },
     {
       "type": "car",
       "rz": "3E53355",
       "position": 1,
-      "color": "grey"
+      "color": "#000100"
     },
     {
       "type": "lorry",
       "rz": "2A50080",
       "position": 5,
-      "color": "green"
+      "color": "#35b927"
     },
     {
       "type": "car",
       "rz": "3L32030",
       "position": 6,
-      "color": "blue"
+      "color": "#2a6782"
     },
     {
       "type": "lorry",
       "rz": "9A97575",
       "position": 2,
-      "color": "white"
+      "color": "#C1CBDB"
     },
     {
       "type": "police",
       "rz": "4AA2233",
       "position": 8,
-      "color": "green"
+      "color": "#517FC6"
     },
     {
       "type": "car",
       "rz": "2S48224",
       "position": 3,
-      "color": "gold"
+      "color": "#945023"
     },
     {
       "type": "car",
       "rz": "1L18515",
       "position": 10,
-      "color": "red"
+      "color": "#9D1136"
     },
     {
       "type": "lorry",
       "rz": "4L82020",
       "position": 12,
-      "color": "blue"
+      "color": "#D5B343"
     },
     {
       "type": "police",
       "rz": "2L20011",
       "position": 11,
-      "color": "blue"
+      "color": "#517FC6"
     }
   ]
 }
