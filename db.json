@@ -46,7 +46,7 @@
       "type": "police",
       "rz": "4AA2233",
       "position": 8,
-      "color": "#517FC6"
+      "color": "black"
     },
     {
       "type": "car",
@@ -70,7 +70,7 @@
       "type": "police",
       "rz": "2L20011",
       "position": 11,
-      "color": "#517FC6"
+      "color": "black"
     },
     {
       "type": "car",
@@ -88,7 +88,7 @@
       "type": "police",
       "rz": "3P58820",
       "position": 9,
-      "color": "#517FC6"
+      "color": "black"
     },
     {
       "type": "car",
