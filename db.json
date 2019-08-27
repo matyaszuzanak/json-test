@@ -44,7 +44,7 @@
     },
     {
       "type": "police",
-      "rz": "POLICE",
+      "rz": "POLICIE",
       "position": 8,
       "color": "black"
     },
@@ -68,7 +68,7 @@
     },
     {
       "type": "police",
-      "rz": "POLICE",
+      "rz": "POLICIE",
       "position": 11,
       "color": "black"
     },
@@ -86,7 +86,7 @@
     },
     {
       "type": "police",
-      "rz": "POLICE",
+      "rz": "POLICIE",
       "position": 9,
       "color": "black"
     },
