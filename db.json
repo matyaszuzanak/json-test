@@ -44,7 +44,7 @@
     },
     {
       "type": "police",
-      "rz": "4AA2233",
+      "rz": "POLICE",
       "position": 8,
       "color": "black"
     },
@@ -68,7 +68,7 @@
     },
     {
       "type": "police",
-      "rz": "2L20011",
+      "rz": "POLICE",
       "position": 11,
       "color": "black"
     },
@@ -86,7 +86,7 @@
     },
     {
       "type": "police",
-      "rz": "3P58820",
+      "rz": "POLICE",
       "position": 9,
       "color": "black"
     },
